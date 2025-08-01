@@ -1,0 +1,3 @@
+1. The listener's audio aura appears to be upbeat, energetic, and emotional. The songs have high values of energy, danceability, and valence, which typically indicate feel-good, fast-paced music.
+
+2. This aura might not represent the listener’s full taste, since it only reflects their most-streamed songs in 2018. It misses out on less frequently played songs or niche genres the user may enjoy. A better approach would be to analyze the full listening history, genre diversity, moods over time, and when the songs were played during the day or week.
